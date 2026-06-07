@@ -1,0 +1,2 @@
+# Predicting-Stroke-Risk-Using-Patient-Health-and-Lifestyle-Data
+As a Stage 1 analytical report &amp; predictive model for the USJ Stat Society Data Analysis Competition 'Data Xplore 2.0'. Developed a model using 9,722 patient records to predict stroke risk. Implemented data exploration, feature preparation, visualization, and insight generation to identify key clinical and lifestyle risk factors.
